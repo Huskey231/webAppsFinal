@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af5a532d-39b2-4b6b-ace9-9d7690db0e43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/students_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/students_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/sections_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/sections_controller.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,45 +12,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/webAppsFinal@Development__webAppsFinal.rcov" NAME="Development: webAppsFinal Coverage Results" MODIFIED="1543708513915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="webAppsFinal" />
+    <SUITE FILE_PATH="coverage/webAppsFinal@Development__webAppsFinal.rcov" NAME="Development: webAppsFinal Coverage Results" MODIFIED="1543709773663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="webAppsFinal" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="281707449">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="1" />
           <entry key="erb" value="5" />
-          <entry key="rb" value="5" />
+          <entry key="rb" value="6" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="RHTML" value="5" />
-          <entry key="Ruby" value="6" />
+          <entry key="Ruby" value="7" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="erb" value="123" />
-          <entry key="rb" value="253" />
-          <entry key="txt" value="1128" />
+          <entry key="rb" value="319" />
+          <entry key="txt" value="1349" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1128" />
+          <entry key="PLAIN_TEXT" value="1349" />
           <entry key="RHTML" value="123" />
-          <entry key="Ruby" value="253" />
+          <entry key="Ruby" value="319" />
         </counts>
       </usages-collector>
     </session>
@@ -58,19 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/course.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -89,20 +80,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/sections_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="479">
+              <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/students_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="73" column="58" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
+            <state relative-caret-position="241">
+              <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/sections_student.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -156,8 +156,8 @@
         <option value="$PROJECT_DIR$/app/views/sections/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/courses/show.html.erb" />
         <option value="$PROJECT_DIR$/app/models/course.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/sections_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/students_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/sections_controller.rb" />
       </list>
     </option>
   </component>
@@ -370,7 +370,8 @@
       <updated>1543389651971</updated>
       <workItem from="1543389653186" duration="3159000" />
       <workItem from="1543707069108" duration="823000" />
-      <workItem from="1543708007516" duration="1483000" />
+      <workItem from="1543708007516" duration="1818000" />
+      <workItem from="1543712165743" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="Course and Section scaffolds both created and migrated.">
       <created>1543391271449</created>
@@ -442,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543709146164</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added connections in the student controller for connecting to the names of all sections. Also added the new whitelist filter. All this work was derived from slide 33.">
+      <created>1543709592759</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543709592759</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5465000" />
+    <option name="totallyTimeSpent" value="6297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,7 +469,7 @@
     <frame x="745" y="0" width="761" height="966" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30583215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30583215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -473,8 +481,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297362" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2086331" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26618704" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.2086331" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26618704" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -526,7 +534,8 @@
     <MESSAGE value="End of project one. Revert here to continue from a working project one." />
     <MESSAGE value="Created scaffold for students. Created model for SectionsStudents. Migrated both databases for the preceding scaffold and model." />
     <MESSAGE value="Added all miscellaneous files that weren't present in the repo. All additional files generated from the previous commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all miscellaneous files that weren't present in the repo. All additional files generated from the previous commit." />
+    <MESSAGE value="Added connections in the student controller for connecting to the names of all sections. Also added the new whitelist filter. All this work was derived from slide 33." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added connections in the student controller for connecting to the names of all sections. Also added the new whitelist filter. All this work was derived from slide 33." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/database.yml">
@@ -539,6 +548,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/course.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -580,24 +596,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/course.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/students_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="241">
+          <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/sections_student.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sections_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/students_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="73" column="58" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
+        <state relative-caret-position="479">
+          <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
         </state>
       </provider>
     </entry>
