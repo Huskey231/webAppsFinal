@@ -71,6 +71,7 @@ class StudentsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def student_params
-      params.require(:student).permit(:name, :section_ids)
+      params.require(:student).permit(:name, :section_ids => [])
     end
 end
+#spare note to allow for commit
