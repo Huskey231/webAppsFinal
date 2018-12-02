@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af5a532d-39b2-4b6b-ace9-9d7690db0e43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/models/course.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/course.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webAppsFinal@Development__webAppsFinal.rcov" NAME="Development: webAppsFinal Coverage Results" MODIFIED="1543708513915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="webAppsFinal" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="281707449">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Gemfile" value="1" />
+          <entry key="erb" value="5" />
+          <entry key="rb" value="4" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="RHTML" value="5" />
+          <entry key="Ruby" value="5" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="erb" value="123" />
+          <entry key="rb" value="181" />
+          <entry key="txt" value="868" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="868" />
+          <entry key="RHTML" value="123" />
+          <entry key="Ruby" value="181" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/course.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/courses/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/section.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/sections_controller.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sections/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sections/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sections/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/courses/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/sections/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/sections/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/sections/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/courses/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/models/course.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1490" />
+    <option name="width" value="1522" />
+    <option name="height" value="1932" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppsFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppsFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: webAppsFinal">
+    <configuration name="Development: webAppsFinal" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="webAppsFinal" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: webAppsFinal" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="webAppsFinal" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: webAppsFinal" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="webAppsFinal" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: webAppsFinal" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="webAppsFinal" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Rake.test: webAppsFinal" />
+      <item itemvalue="Rake.spec: webAppsFinal" />
+      <item itemvalue="Rails.Production: webAppsFinal" />
+      <item itemvalue="Rails.Development: webAppsFinal" />
+    </list>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af5a532d-39b2-4b6b-ace9-9d7690db0e43" name="Default Changelist" comment="" />
+      <created>1543389651971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543389651971</updated>
+      <workItem from="1543389653186" duration="3159000" />
+      <workItem from="1543707069108" duration="823000" />
+      <workItem from="1543708007516" duration="893000" />
+    </task>
+    <task id="LOCAL-00001" summary="Course and Section scaffolds both created and migrated.">
+      <created>1543391271449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543391271449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="has_many implemented in .../models/course.rb and belongs_to implemented in .../models/section.rb">
+      <created>1543391619902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543391619902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Did stuff from slide 19. Implemented a collection set for course_id rather than a text field.">
+      <created>1543391841193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543391841193</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed line 21 in .../views/sections/index.html.erb to include .name after course so that it retrieves the courses name.">
+      <created>1543392031108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543392031108</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Slide 21 done. added .name to course to allow for name retrieval from courses.">
+      <created>1543392138803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543392138803</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Slide 22 done the &lt;/li&gt; was added automatically by the ide. It wasn't present in the slides though.">
+      <created>1543392480625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543392480625</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Project one needs done. Runs and logs sections and courses correctly and shows a drop down in sections for course selection. When viewing a course after creation the course will show all sections attached to it.">
+      <created>1543392832781</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543392832781</updated>
+    </task>
+    <task id="LOCAL-00008" summary="End of project one. Revert here to continue from a working project one.">
+      <created>1543707322677</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543707322677</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4875000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="745" y="0" width="761" height="966" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30583215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32853717" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297362" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2086331" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26618704" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936978" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Course and Section scaffolds both created and migrated." />
+    <MESSAGE value="has_many implemented in .../models/course.rb and belongs_to implemented in .../models/section.rb" />
+    <MESSAGE value="Did stuff from slide 19. Implemented a collection set for course_id rather than a text field." />
+    <MESSAGE value="Changed line 21 in .../views/sections/index.html.erb to include .name after course so that it retrieves the courses name." />
+    <MESSAGE value="Slide 21 done. added .name to course to allow for name retrieval from courses." />
+    <MESSAGE value="Slide 22 done the &lt;/li&gt; was added automatically by the ide. It wasn't present in the slides though." />
+    <MESSAGE value="Project one needs done. Runs and logs sections and courses correctly and shows a drop down in sections for course selection. When viewing a course after creation the course will show all sections attached to it." />
+    <MESSAGE value="End of project one. Revert here to continue from a working project one." />
+    <option name="LAST_COMMIT_MESSAGE" value="End of project one. Revert here to continue from a working project one." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/courses/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/section.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/sections_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sections/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sections/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sections/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/courses/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/course.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
