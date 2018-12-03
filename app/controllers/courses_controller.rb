@@ -63,7 +63,7 @@ class CoursesController < ApplicationController
 
   def search
     courses = Course.where("name like ?", "%#{params[:query]}%")
-    render index
+    render :index
   end
 
   private
